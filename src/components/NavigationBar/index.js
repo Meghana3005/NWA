@@ -4,8 +4,7 @@ import {HiFire} from 'react-icons/hi'
 import {SiYoutubegaming} from 'react-icons/si'
 import {CgPlayListAdd} from 'react-icons/cg'
 
-import ThemeAndVideoContext from '../../context/ThemeAndVideoContext'
-
+import ThemeAndVideoContext from '../../Context/ThemeAndVideoContext'
 import {
   NavigationLgContainer,
   NavOptions,
